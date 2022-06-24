@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testcases.Drag">
+      <class name="com.testcases.Darden">
         <methods>
-          <include name="colourPicker"/>
+          <include name="searchrestaurent"/>
         </methods>
-      </class> <!-- com.testcases.Drag -->
+      </class> <!-- com.testcases.Darden -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
